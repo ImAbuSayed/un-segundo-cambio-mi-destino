@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-segundo-cambio-mi-destino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Un segundo cambió mi destino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-segundo-cambio-mi-destino/) |
+| **Get License** | [Get License For Un segundo cambió mi destino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-segundo-cambio-mi-destino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Solo un segundo cruzando miradas
+> Y ya te imagino en mis sábanas blancas
+> Ese vestido y la forma en que andas
+> Bebé, tú bien sabes que el alma me atrapas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
