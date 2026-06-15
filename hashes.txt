@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un segundo cambió mi destino
+
+This log tracks the cryptographic history and versioning for the song **Un segundo cambió mi destino** (un-segundo-cambio-mi-destino).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T13:01:26.089585 | `v1` | `7119342856739d63b92e3dfab285789f6d267300fe6366874b69baa0e6417de6` | `3a7c94e0e22252dc48d32ccd49ae3915c1558a25410e352c4c1ebe4a472021d3` | `2026-06-15_un-segundo-cambio-mi-destino-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
